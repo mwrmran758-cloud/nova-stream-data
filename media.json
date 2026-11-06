@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Demon Slayer",
+    "type": "anime",
+    "language": "subbed",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "description": "A boy becomes a demon slayer after his family is slaughtered and his sister is turned into a demon."
+  },
+  {
+    "id": "2",
+    "title": "Naruto",
+    "type": "anime",
+    "language": "dubbed",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vauCEnR7CiyBDzRCeElKkS0sAuA.jpg",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "description": "A ninja's journey to become Hokage and earn the respect of his village."
+  }
+]
