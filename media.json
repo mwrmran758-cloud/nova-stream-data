@@ -1,20 +1,27 @@
 [
   {
-    "id": "1",
-    "title": "Demon Slayer",
-    "type": "anime",
+    "id": "mononokean",
+    "title": "The Morose Mononokean",
+    "description": "بعد أن تصاب طالبة الثانوية أساهي بمرض غامض بسبب يوكاي، يجدها الشاب الغامض هارايتو ويأخذها إلى مونونوكيان - محطة للاستشارات الروحية. معاً، يعملان على إعادة اليووكاي إلى عالمهم الروحي بينما يستكشفان أسرار ماضيهما.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kGcWj6Z7q9LZbYsOQvh2rq3hP7N.jpg",
+    "type": "series",
     "language": "subbed",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
-    "videoUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
-    "description": "A boy becomes a demon slayer after his family is slaughtered and his sister is turned into a demon."
-  },
-  {
-    "id": "2",
-    "title": "Naruto",
-    "type": "anime",
-    "language": "dubbed",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vauCEnR7CiyBDzRCeElKkS0sAuA.jpg",
-    "videoUrl": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4",
-    "description": "A ninja's journey to become Hokage and earn the respect of his village."
+    "year": 2016,
+    "status": "completed",
+    "contentRating": "PG-13",
+    "genres": ["خارق للطبيعة", "دراما", "كوميديا", "شريعة"],
+    "episodes": [
+      {
+        "number": 1,
+        "title": "الحلقة الأولى: البداية",
+        "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep1.mkv",
+        "subtitleAsset": null,
+        "duration": "24 دقيقة"
+      }
+    ],
+    "reviews": [
+      { "author": "يوكي", "rating": 5, "text": "عمل هادئ ومميز، الأجواء الحوارية والعلاقة بين الشخصيتين رائعة." },
+      { "author": "سامي", "rating": 4, "text": "الإخراج بسيط لكن القصة مريحة للأعصاب. مناسب لمحبي القصص الهادئة." }
+    ]
   }
 ]
