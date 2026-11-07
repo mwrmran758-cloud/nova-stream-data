@@ -16,94 +16,81 @@
     "episodes": [
       {
         "number": 1,
-        "title": "الحلقة الأولى: البداية",
+        "title": "1",
         "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep1.mkv",
-        "subtitleUrl": null,
-        "duration": "24 دقيقة"
+        "subtitleUrl": null
       },
       {
         "number": 2,
-        "title": "الحلقة 2",
+        "title": "2",
         "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep2.mkv",
-        "subtitleUrl": null,
-        "duration": "24 دقيقة"
+        "subtitleUrl": null
       },
       {
         "number": 3,
-        "title": "الحلقة 3",
+        "title": "3",
         "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep3.mkv",
-        "subtitleUrl": null,
-        "duration": "24 دقيقة"
+        "subtitleUrl": null
       },
       {
         "number": 4,
-        "title": "الحلقة 4",
+        "title": "4",
         "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep4.mkv",
-        "subtitleUrl": null,
-        "duration": "24 دقيقة"
+        "subtitleUrl": null
       },
       {
         "number": 5,
-        "title": "الحلقة 5",
+        "title": "5",
         "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep5.mkv",
-        "subtitleUrl": null,
-        "duration": "24 دقيقة"
+        "subtitleUrl": null
       },
       {
         "number": 6,
-        "title": "الحلقة 6",
+        "title": "6",
         "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep6.mkv",
-        "subtitleUrl": null,
-        "duration": "24 دقيقة"
+        "subtitleUrl": null
       },
       {
         "number": 7,
-        "title": "الحلقة 7",
+        "title": "7",
         "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep7.mkv",
-        "subtitleUrl": null,
-        "duration": "24 دقيقة"
+        "subtitleUrl": null
       },
       {
         "number": 8,
-        "title": "الحلقة 8",
+        "title": "8",
         "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep8.mkv",
-        "subtitleUrl": null,
-        "duration": "24 دقيقة"
+        "subtitleUrl": null
       },
       {
         "number": 9,
-        "title": "الحلقة 9",
+        "title": "9",
         "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep9.mkv",
-        "subtitleUrl": null,
-        "duration": "24 دقيقة"
+        "subtitleUrl": null
       },
       {
         "number": 10,
-        "title": "الحلقة 10",
+        "title": "10",
         "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep10.mkv",
-        "subtitleUrl": null,
-        "duration": "24 دقيقة"
+        "subtitleUrl": null
       },
       {
         "number": 11,
-        "title": "الحلقة 11",
+        "title": "11",
         "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep11.mkv",
-        "subtitleUrl": null,
-        "duration": "24 دقيقة"
+        "subtitleUrl": null
       },
       {
         "number": 12,
-        "title": "الحلقة 12",
+        "title": "12",
         "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep12.mkv",
-        "subtitleUrl": null,
-        "duration": "24 دقيقة"
+        "subtitleUrl": null
       },
       {
         "number": 13,
-        "title": "الحلقة 13",
+        "title": "13",
         "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep13.mkv",
-        "subtitleUrl": null,
-        "duration": "24 دقيقة"
+        "subtitleUrl": null
       }
     ],
     "reviews": []
