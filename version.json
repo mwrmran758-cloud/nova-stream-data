@@ -1,0 +1,7 @@
+{
+    "latest_version":  "11.2.2",
+    "latest_build":  13,
+    "download_url":  "https://github.com/mwrmran758-cloud/nova_stream_app/releases/latest",
+    "changelog":  "Initial version endpoint.",
+    "mandatory":  false
+}
