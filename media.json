@@ -1,129 +1,195 @@
 [
     {
-        "id":  "mononokean",
-        "title":  "The Morose Mononokean",
-        "description":  "Ashiya Hanae is a high school student who suddenly finds himself unable to stop yawning, until a chance encounter leads him to a strange exorcist named Abeno Haruitsuki. Abeno runs the Mononokean, a tea room that serves as a gateway between the human world and the underworld, and he agrees to help Ashiya for a price. Together they guide troubled spirits back where they belong while learning that kindness can be the strongest form of exorcism.",
-        "posterUrl":  "https://static.tvmaze.com/uploads/images/original_untouched/64/160724.jpg",
-        "type":  "series",
-        "language":  "subtitled",
-        "year":  2016,
-        "status":  "completed",
-        "featured":  true,
-        "watchCount":  5200,
-        "genres":  [
-                       "Comedy",
-                       "Supernatural",
-                       "Slice of Life"
-                   ],
-        "episodes":  [
-                         {
-                             "number":  1,
-                             "title":  "Episode 1",
-                             "videoUrl":  "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep1.mkv",
-                             "subtitleUrl":  null
-                         },
-                         {
-                             "number":  2,
-                             "title":  "Episode 2",
-                             "videoUrl":  "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep2.mkv",
-                             "subtitleUrl":  null
-                         },
-                         {
-                             "number":  3,
-                             "title":  "Episode 3",
-                             "videoUrl":  "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep3.mkv",
-                             "subtitleUrl":  null
-                         },
-                         {
-                             "number":  4,
-                             "title":  "Episode 4",
-                             "videoUrl":  "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep4.mkv",
-                             "subtitleUrl":  null
-                         },
-                         {
-                             "number":  5,
-                             "title":  "Episode 5",
-                             "videoUrl":  "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep5.mkv",
-                             "subtitleUrl":  null
-                         },
-                         {
-                             "number":  6,
-                             "title":  "Episode 6",
-                             "videoUrl":  "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep6.mkv",
-                             "subtitleUrl":  null
-                         },
-                         {
-                             "number":  7,
-                             "title":  "Episode 7",
-                             "videoUrl":  "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep7.mkv",
-                             "subtitleUrl":  null
-                         },
-                         {
-                             "number":  8,
-                             "title":  "Episode 8",
-                             "videoUrl":  "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep8.mkv",
-                             "subtitleUrl":  null
-                         },
-                         {
-                             "number":  9,
-                             "title":  "Episode 9",
-                             "videoUrl":  "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep9.mkv",
-                             "subtitleUrl":  null
-                         },
-                         {
-                             "number":  10,
-                             "title":  "Episode 10",
-                             "videoUrl":  "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep10.mkv",
-                             "subtitleUrl":  null
-                         },
-                         {
-                             "number":  11,
-                             "title":  "Episode 11",
-                             "videoUrl":  "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep11.mkv",
-                             "subtitleUrl":  null
-                         },
-                         {
-                             "number":  12,
-                             "title":  "Episode 12",
-                             "videoUrl":  "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep12.mkv",
-                             "subtitleUrl":  null
-                         },
-                         {
-                             "number":  13,
-                             "title":  "Episode 13",
-                             "videoUrl":  "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep13.mkv",
-                             "subtitleUrl":  null
-                         }
-                     ],
-        "reviews":  [
-
-                    ],
-        "cast":  [
-                     {
-                         "name":  "Yuki Kaji",
-                         "character":  "Ashiya Hanae",
-                         "profileUrl":  "https://picsum.photos/seed/yuki-kaji/200/200"
-                     },
-                     {
-                         "name":  "Tomokazu Sugita",
-                         "character":  "Abeno Haruitsuki",
-                         "profileUrl":  "https://picsum.photos/seed/tomokazu-sugita/200/200"
-                     },
-                     {
-                         "name":  "Ai Kayano",
-                         "character":  "Fujiwara Zenko",
-                         "profileUrl":  "https://picsum.photos/seed/ai-kayano/200/200"
-                     },
-                     {
-                         "name":  "Ayahi Takagaki",
-                         "character":  "Kou",
-                         "profileUrl":  "https://picsum.photos/seed/ayahi-takagaki/200/200"
-                     },
-                     {
-                         "name":  "Chinatsu Akasaki",
-                         "character":  "Yahiko",
-                         "profileUrl":  "https://picsum.photos/seed/chinatsu-akasaki/200/200"
-                     }
-                 ]
+        "id": "mononokean",
+        "title": "The Morose Mononokean",
+        "description": "Ashiya Hanae is a high school student who suddenly finds himself unable to stop yawning, until a chance encounter leads him to a strange exorcist named Abeno Haruitsuki. Abeno runs the Mononokean, a tea room that serves as a gateway between the human world and the underworld, and he agrees to help Ashiya for a price. Together they guide troubled spirits back where they belong while learning that kindness can be the strongest form of exorcism.",
+        "posterUrl": "https://static.tvmaze.com/uploads/images/original_untouched/64/160724.jpg",
+        "type": "series",
+        "language": "subtitled",
+        "year": 2016,
+        "status": "completed",
+        "featured": true,
+        "watchCount": 5200,
+        "genres": [
+            "Comedy",
+            "Supernatural",
+            "Slice of Life"
+        ],
+        "episodes": [
+            {
+                "number": 1,
+                "title": "The Beginning",
+                "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep1.mkv",
+                "subtitleUrl": null,
+                "airDate": "2016-06-28",
+                "durationMinutes": 24,
+                "description": "The day before he begins attending high school, Ashiya Hanae becomes possessed by a strange fuzzy yokai. Being possessed causes him to fall ill, and while spending the start of his high school life repeatedly making trips to the nurse's office, he comes across the contact information of the Mononokean, which specializes in exorcising yokai, and decides to call them. When Ashiya finally visits the Mononokean, he meets the morose master Abeno Haruitsuki.",
+                "thumbnailUrl": "https://image.tmdb.org/t/p/w300/A2UWubK9nNAwV1KO5SekdiSCX65.jpg"
+            },
+            {
+                "number": 2,
+                "title": "The Ant",
+                "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep2.mkv",
+                "subtitleUrl": null,
+                "airDate": "2016-07-05",
+                "durationMinutes": 24,
+                "description": "When Ashiya begins working part time at the Mononokean, the master Abeno impresses upon him that he should pretend not to see any yokai other than the Mononokean's clients. However, the kind-hearted Ashiya is unable to keep his word, and the yokai won't leave him alone. Based on their surprising strength and numbers, Abeno believes there must be a powerful demon serving as their leader.",
+                "thumbnailUrl": "https://image.tmdb.org/t/p/w300/7eOHqar2vkKJDSMpvEbvjHU3dFJ.jpg"
+            },
+            {
+                "number": 3,
+                "title": "Zenko",
+                "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep3.mkv",
+                "subtitleUrl": null,
+                "airDate": "2016-07-12",
+                "durationMinutes": 24,
+                "description": "After making friends with his classmates Saga and Fushimi, Ashiya believes the high school life he dreamed of may finally be his. But before he has the chance to enjoy his new life, he's instructed to go to a certain temple alone to find and return a yokai's lost possession. At the temple, Ashiya meets a girl named Fujiwara Zenko, and it seems the lost possession in question has something to do with Zenko's father, the head priest...",
+                "thumbnailUrl": "https://image.tmdb.org/t/p/w300/mTDmetCYzJvLDg3vCQFrDsOeezF.jpg"
+            },
+            {
+                "number": 4,
+                "title": "The Underworld",
+                "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep4.mkv",
+                "subtitleUrl": null,
+                "airDate": "2016-07-19",
+                "durationMinutes": 24,
+                "description": "When Ashiya hears that Abeno will be going to a pharmacist called the “Kiyakudo” in the Underworld, he asks to go with him. Though Abeno is reluctant to bring a human to the Underworld, he relents when the Mononokean suggests that Ashiya accompany him. Concerned for Ashiya, Abeno forbids him to travel in the Underworld alone, but Ashiya finds himself unable to keep his word again...",
+                "thumbnailUrl": "https://image.tmdb.org/t/p/w300/7YKeXYkLfUxaN1ZSlyXhsoTDUTb.jpg"
+            },
+            {
+                "number": 5,
+                "title": "The Legislative Lake",
+                "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep5.mkv",
+                "subtitleUrl": null,
+                "airDate": "2016-07-26",
+                "durationMinutes": 24,
+                "description": "The Legislator, one of three influential figures of the Underworld, issues a rule that Abeno must bring Ashiya to see him. Unable to defy the Legislator's rules, Abeno is forced to pay a visit to him with Ashiya in tow. As Abeno hired Ashiya without informing the Legislator, he now seeks to determine for himself if Ashiya is truly worthy of being an employee of the Mononokean. What will the Legislator conclude?",
+                "thumbnailUrl": "https://image.tmdb.org/t/p/w300/tqqoA5Y2ke6evQxyLFUjbaoI36e.jpg"
+            },
+            {
+                "number": 6,
+                "title": "The Ring",
+                "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep6.mkv",
+                "subtitleUrl": null,
+                "airDate": "2016-08-02",
+                "durationMinutes": 24,
+                "description": "Abeno is hired by a certain yokai to find a human woman's missing ring and return it to her. Unable to find the ring on his own, he gets Ashiya to help him look for it. During their search, Ashiya demonstrates a surprising talent. The ring is found, but when the time comes to return the ring to the woman, Ashiya and Abeno disagree over how they should return the lost ring to the woman",
+                "thumbnailUrl": "https://image.tmdb.org/t/p/w300/togYuhO0NmyPHmBjcKIlpitaewu.jpg"
+            },
+            {
+                "number": 7,
+                "title": "The Encounter",
+                "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep7.mkv",
+                "subtitleUrl": null,
+                "airDate": "2016-08-09",
+                "durationMinutes": 24,
+                "description": "When Ashiya and Abeno see Zenko at school again, she asks them for help with a particular yokai. Zenko was bitten by a strange dog-like animal a few days prior. However, ordinary people can't see the bite mark, and Zenko, who was previously unable to see yokai, has begun seeing strange things. While listening to her story, a fox yokai suddenly appears behind Ashiya and Abeno. The yokai appears to recognize Abeno, but Abeno doesn't recognize him at all...",
+                "thumbnailUrl": "https://image.tmdb.org/t/p/w300/shw2oBWXe4tmRL1T47QzdTqsKxq.jpg"
+            },
+            {
+                "number": 8,
+                "title": "The Wait",
+                "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep8.mkv",
+                "subtitleUrl": null,
+                "airDate": "2016-08-16",
+                "durationMinutes": 24,
+                "description": "Zenko arranges for Yahiko to help around the temple while he stays with her. Ashiya is relieved, but he soon runs into another yokai. The bird yokai Jomatsu is concerned for his heartbroken mistress Princess Anmo, who withdrew into an egg shell she made and hasn't come out for a long time. Jomatsu has been searching for the Mononokean so he can return to the Underworld with Princess Anmo still inside her egg.",
+                "thumbnailUrl": "https://image.tmdb.org/t/p/w300/kaNkSxFlP7EjeBTG0IqjvhzBW4l.jpg"
+            },
+            {
+                "number": 9,
+                "title": "The Marked Difference",
+                "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep9.mkv",
+                "subtitleUrl": null,
+                "airDate": "2016-08-23",
+                "durationMinutes": 24,
+                "description": "When Abeno is hired to exorcise a yokai by a human, he unenthusiastically heads to the client's house with Ashiya and Fuzzy. The girl who hired him is unable to see yokai but is interested in the occult and seems very interested in their work. Abeno asks Ashiya to watch the door while he works so nobody bothers him, but the girl's mother, who doesn't believe in the supernatural, begins asking Ashiya some nosy questions.",
+                "thumbnailUrl": "https://image.tmdb.org/t/p/w300/9nNwD0bRgeH9yxCqwPr3AW5d5Jd.jpg"
+            },
+            {
+                "number": 10,
+                "title": "The Fool",
+                "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep10.mkv",
+                "subtitleUrl": null,
+                "airDate": "2016-08-30",
+                "durationMinutes": 24,
+                "description": "When Ashiya and Abeno smell a yokai on the potatoes Yahiko has been sneaking, they head to the farm where they were grown. There they encounter a yokai calling himself Nobou. Nobou has been attempting to leave the farm, but each time he does, he is enveloped in a strange smoke, forced to witness the events of his past, and returns to where he started. Nobou asked to be exorcised so he can leave the farm, but Abeno notices something about the situation.",
+                "thumbnailUrl": "https://image.tmdb.org/t/p/w300/s24uH7XDdiWt1Kd0e9vToSHvhXL.jpg"
+            },
+            {
+                "number": 11,
+                "title": "The Purple Sun",
+                "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep11.mkv",
+                "subtitleUrl": null,
+                "airDate": "2016-09-06",
+                "durationMinutes": 24,
+                "description": "A yokai worshipped as a kami by humans and known as Okina-sama to other yokai comes to the Mononokean with a request: to send the blind yokai Tomori back to the Underworld. After hearing Okina's story, Abeno and Ashiya immediately head to see Tomori. However, upon seeing how Tomori longs to once again see the sights of the Underworld, he tries to see what he can do before Tomori is returned to the Underworld...",
+                "thumbnailUrl": "https://image.tmdb.org/t/p/w300/kgmU24QZIrFn6MX0buA3W0a8CFW.jpg"
+            },
+            {
+                "number": 12,
+                "title": "The Separation",
+                "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep12.mkv",
+                "subtitleUrl": null,
+                "airDate": "2016-09-13",
+                "durationMinutes": 24,
+                "description": "Abeno visits the Legislator to inform him that Ashiya is no longer working for the Mononokean. As Abeno rarely comes to visit without his presence being requested, the curious Legislator asks why, but when he hears what Abeno has to say...? Meanwhile, Ashiya stops by the Kiyakudo when he hears from Shizuku, where he runs into the yokai Big Boss Scree, a yokai he previously exorcised, and his children. When they hear that Ashiya is in trouble...?",
+                "thumbnailUrl": "https://image.tmdb.org/t/p/w300/mAnPvd88Judel0kWjgk3u96KLMR.jpg"
+            },
+            {
+                "number": 13,
+                "title": "The End",
+                "videoUrl": "https://github.com/mwrmran758-cloud/nova-stream-data/releases/download/assets-v1/mononokean_ep13.mkv",
+                "subtitleUrl": null,
+                "airDate": "2016-09-20",
+                "durationMinutes": 24,
+                "description": "Reunited with the yokai he and Ashiya exorcised together, Abeno realizes the Mononokean still needs Ashiya. Abeno suddenly misses him, and with the help of the yokai, he decides to give his idea a try. Meanwhile, Ashiya wonders if the reason Abeno has been absent from school so much is because he's busy exorcising yokai and decides to check out the shrine in the mountains Yahiko mentioned.",
+                "thumbnailUrl": "https://image.tmdb.org/t/p/w300/fWiKeVPFiIrVLItzYcxHusVhsZx.jpg"
+            }
+        ],
+        "reviews": [],
+        "cast": [
+            {
+                "name": "Tomoaki Maeno",
+                "character": "Abeno Haruitsuki (voice)",
+                "profileUrl": "https://image.tmdb.org/t/p/w185/w3lEuXSbEyzzNyO3YnxsF6wm2N5.jpg"
+            },
+            {
+                "name": "Yuki Kaji",
+                "character": "Ashiya Hanae (voice)",
+                "profileUrl": "https://image.tmdb.org/t/p/w185/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+            },
+            {
+                "name": "Ayahi Takagaki",
+                "character": "Fujiwara Zenko (voice)",
+                "profileUrl": "https://image.tmdb.org/t/p/w185/lvROZLr3kQHuD5hJsaEkclns9tc.jpg"
+            },
+            {
+                "name": "Yoko Hikasa",
+                "character": "Koura (voice)",
+                "profileUrl": "https://image.tmdb.org/t/p/w185/mP3bj0s1gqJ6tCKFLhu4b1CkJj7.jpg"
+            },
+            {
+                "name": "Junichi Suwabe",
+                "character": "Rippou (voice)",
+                "profileUrl": "https://image.tmdb.org/t/p/w185/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+            },
+            {
+                "name": "Chinami Hashimoto",
+                "character": "Shizuku (voice)",
+                "profileUrl": "https://image.tmdb.org/t/p/w185/ubQ2KtPuPTLKrZAMyFV7n0RUCv.jpg"
+            },
+            {
+                "name": "Ikue Otani",
+                "character": "Yahiko (voice)",
+                "profileUrl": "https://image.tmdb.org/t/p/w185/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
+            },
+            {
+                "name": "Koji Yusa",
+                "character": "Gyousei (voice)",
+                "profileUrl": "https://image.tmdb.org/t/p/w185/vBo8dHvZvbG4kax0LcaWvrXUZuX.jpg"
+            }
+        ],
+        "rating": 7.4
     }
 ]
