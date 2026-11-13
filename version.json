@@ -1,7 +1,7 @@
 {
-  "latest_version": "12.2.0",
-  "latest_build": 15,
+  "latest_version": "13.0.0",
+  "latest_build": 16,
   "download_url": "https://github.com/mwrmran758-cloud/nova_stream_app/releases/latest",
-  "changelog": "v12.2: Reezn-style floating navigation, peeking hero carousel with red Play Now, landscape Continue Watching cards, redesigned details screen with real TMDB cast and episode metadata.",
+  "changelog": "v13.0: inline playback inside the details screen with Reezn-style controls, seamless episode switching on a reused player controller, dynamic season/episode title, compact 160px Continue Watching cards without duplicates, and a fixed three-column My List grid.",
   "mandatory": false
 }
