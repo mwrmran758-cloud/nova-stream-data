@@ -1,7 +1,7 @@
 {
-  "latest_version": "13.0.0",
-  "latest_build": 16,
+  "latest_version": "14.0.0",
+  "latest_build": 17,
   "download_url": "https://github.com/mwrmran758-cloud/nova_stream_app/releases/latest",
-  "changelog": "v13.0: inline playback inside the details screen with Reezn-style controls, seamless episode switching on a reused player controller, dynamic season/episode title, compact 160px Continue Watching cards without duplicates, and a fixed three-column My List grid.",
+  "changelog": "v14.0: episode stills in Continue Watching, inline player that scrolls with the details page, current-episode highlight, fullscreen landscape playback, and episode playback from any entry point.",
   "mandatory": false
 }

@@ -190,6 +190,7 @@
                 "profileUrl": "https://image.tmdb.org/t/p/w185/vBo8dHvZvbG4kax0LcaWvrXUZuX.jpg"
             }
         ],
-        "rating": 7.4
+        "rating": 7.4,
+        "backdropUrl": "https://image.tmdb.org/t/p/w780/45PNVTcVCYL8DR4ZAp290PSo3W2.jpg"
     }
 ]
